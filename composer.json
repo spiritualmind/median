@@ -5,9 +5,6 @@
         }
     },
     "license": "MIT",
-    "require-dev": {
-        "phpspec/phpspec": "^3.0"
-    },
-    "name": "mazedlx/median",
+    "name": "spiritualmind/median",
     "description": "Super simple median calculation"
 }
